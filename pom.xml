@@ -19,7 +19,7 @@
     <liberty.var.jwt.issuer>http://piggymetrics.mp.com</liberty.var.jwt.issuer>
     <!-- Dependencies' versions -->
     <jnosql-mongodb.version>1.0.1</jnosql-mongodb.version>
-    <liberty-maven-plugin.version>3.8.2</liberty-maven-plugin.version>
+    <liberty-maven-plugin.version>3.9</liberty-maven-plugin.version>
   </properties>
   
   <modules>
