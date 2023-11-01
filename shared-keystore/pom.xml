@@ -24,7 +24,7 @@
             <plugin>
               <groupId>org.codehaus.mojo</groupId>
               <artifactId>keytool-maven-plugin</artifactId>
-              <version>1.5</version>
+              <version>1.7</version>
               <executions>
                 <!-- Delete any keystore that exists already -->
                 <execution>
