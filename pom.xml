@@ -18,7 +18,7 @@
     <liberty.var.jwt.audiences>piggymetrics</liberty.var.jwt.audiences>
     <liberty.var.jwt.issuer>http://piggymetrics.mp.com</liberty.var.jwt.issuer>
     <!-- Dependencies' versions -->
-    <jnosql-mongodb.version>1.0.1</jnosql-mongodb.version>
+    <jnosql-mongodb.version>1.0.2</jnosql-mongodb.version>
     <liberty-maven-plugin.version>3.8.2</liberty-maven-plugin.version>
   </properties>
   
